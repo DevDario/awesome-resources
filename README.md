@@ -5,6 +5,8 @@
 <p>🎉React Awesome Reveal (animations for react projects) -> https://react-awesome-reveal.morello.dev/docs</p>
 <p>🎨React icons (Icons for React) -> https://react-icons.github.io/icons/</p>
 <p>🌌Animate (css animations) -> https://animate.style/</p>
+<p>⚙DummyJson (fake REST API) -> https://dummyjson.com</p>
+<p>🎨WebGradients (awesome css gradients) -> https://webgradients.com</p>
 </div>
 
 ![GitHub contributors](https://img.shields.io/github/contributors/DevDario/awesome-resources)
