@@ -7,6 +7,7 @@
 <p>🌌Animate (css animations) -> https://animate.style/</p>
 <p>⚙DummyJson (fake REST API) -> https://dummyjson.com</p>
 <p>🎨WebGradients (awesome css gradients) -> https://webgradients.com</p>
+<p>🎨Flaticon (icons) https://flaticon.com/</p>
 </div>
 
 ![GitHub contributors](https://img.shields.io/github/contributors/DevDario/awesome-resources)
