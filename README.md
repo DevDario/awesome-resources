@@ -8,7 +8,9 @@
 <p>⚙DummyJson (fake REST API) -> https://dummyjson.com</p>
 <p>🎨WebGradients (awesome css gradients) -> https://webgradients.com</p>
 <p>🎨Flaticon (icons) https://flaticon.com/</p>
-<p>🎨IconFinder (icons, svg's, iluustrations and more) https://iconfinder.com/</p>
+<p>🎨IconFinder (icons, svg's, iluustrations and more) -> https://iconfinder.com/</p>
+<p>🎨LordIcon (icons lib) -> https://lordicon.com/</p>
+<p>🎨IconHunt (svg icon's, png icons and more) -> https://iconhunt.site/</p>
 </div>
 
 ![GitHub contributors](https://img.shields.io/github/contributors/DevDario/awesome-resources)
