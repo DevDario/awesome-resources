@@ -12,6 +12,7 @@
 <p>🎨LordIcon (icons lib) -> https://lordicon.com/</p>
 <p>🎨IconHunt (svg icon's, png icons and more) -> https://iconhunt.site/</p>
 <p>📸Freepick (Images, arts, illustrations) -> https://freepick.com/</p>
+<p>🌌React-Spring (professinal reactjs animations) -> https://react-spring.dev/</p>
 </div>
 
 ![GitHub contributors](https://img.shields.io/github/contributors/DevDario/awesome-resources)
