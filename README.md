@@ -13,6 +13,7 @@
 <p>🎨IconHunt (svg icon's, png icons and more) -> https://iconhunt.site/</p>
 <p>📸Freepick (Images, arts, illustrations) -> https://freepick.com/</p>
 <p>🌌React-Spring (professinal reactjs animations) -> https://react-spring.dev/</p>
+<p>📸PngWing (png images) -> https://pngwing.com/</p>
 </div>
 
 ![GitHub contributors](https://img.shields.io/github/contributors/DevDario/awesome-resources)
