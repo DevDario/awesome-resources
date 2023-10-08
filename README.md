@@ -14,6 +14,8 @@
 <p>📸Freepick (Images, arts, illustrations) -> https://freepick.com/</p>
 <p>🌌React-Spring (professinal reactjs animations) -> https://react-spring.dev/</p>
 <p>📸PngWing (png images) -> https://pngwing.com/</p>
+<p>🎨Coloors (Color scheme generator) -> https://coloors.co</p>
+<p>🎨HexColors (Color pallete generator) -> https://hexcolor.co/</p>
 </div>
 
 ![GitHub contributors](https://img.shields.io/github/contributors/DevDario/awesome-resources)
