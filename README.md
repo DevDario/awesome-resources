@@ -17,7 +17,7 @@
 <p>📸PngWing (png images) -> https://pngwing.com/</p>
 <p>🎨Coloors (Color scheme generator) -> https://coloors.co</p>
 <p>🎨HexColors (Color pallete generator) -> https://hexcolor.co/</p>
-<p>🎨QRCode Generator (highly dynamic & customizable) -> https://me-qr.com/pt/qr-code-generator/qr</p>
+<p>⚙️QRCode Generator (highly dynamic & customizable) -> https://me-qr.com/pt/qr-code-generator/qr</p>
 </div>
 
 ![GitHub contributors](https://img.shields.io/github/contributors/DevDario/awesome-resources)
